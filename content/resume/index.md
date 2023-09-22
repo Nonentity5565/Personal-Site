@@ -110,3 +110,46 @@ showWordCount: false
         </tr>
     </tbody>
 </table>
+
+---
+
+## Awards
+
+<table>
+  <thead>
+    <th>Association</th>
+    <th>Title</th>
+    <th>Details</th>
+    <th>Date</th>
+  </thead>
+  <tr>
+    <td><img alt="Sunway University Logo" class="customEntityLogo nozoom" src="SunwayUniversity.png"/></td>
+    <td>3x Jeffrey Cheah Ace Scholarship</td>
+    <td>
+      Awarded for:
+      <ul>
+        <li>Maintaining a CGPA of 3.50 and above.</li>
+        <li>Scoring a minimum average grade of 90% in CIMP</li>
+      </ul>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/></td>
+    <td>CIMP Academic Medal of Distinction</td>
+    <td>Obtained an average of at least 90% in Canadian International Matriculation Program.</td>
+    <td>2019</td>
+  </tr>
+  <tr>
+    <td><img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/></td>
+    <td>Merite scolaire de l'Ontario (Ontario Scholar)</td>
+    <td>Obtained an average of at least 80% in Canadian International Matriculation Program.</td>
+    <td>2019</td>
+  </tr>
+  <tr>
+    <td><img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/></td>
+    <td>Jeffrey Cheah Entrance Scholarship 2018</td>
+    <td>Awarded for having 5 or more A/A+ in IGCSE</td>
+    <td>2018</td>
+  </tr>
+</table>
