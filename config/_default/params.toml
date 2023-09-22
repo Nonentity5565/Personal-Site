@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["blog"]
+mainSections = ["blog"] # What sections to show under Recent in homepage
 # robots = ""
 
 disableImageOptimization = true
