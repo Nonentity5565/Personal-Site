@@ -25,7 +25,7 @@ defaultBackgroundImage = "img/ocean.jpg" # used as default for background images
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
 showMenu = true
