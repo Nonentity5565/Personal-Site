@@ -4,7 +4,6 @@ description: "My work experience and education background"
 date: 2023-09-22
 draft: false
 
-showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
