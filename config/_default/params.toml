@@ -21,8 +21,8 @@ defaultBackgroundImage = "img/ocean.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
 layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -51,10 +51,10 @@ showViews = false
 showLikes = false
 showDateUpdated = true
 showAuthor = true
-showHero = false
-# heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
-layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground
-layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+showHero = true
+heroStyle = "background"            # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true         # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
 showBreadcrumbs = false
 showDraftLabel = true
 showEdit = false
