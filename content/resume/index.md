@@ -132,7 +132,7 @@ showWordCount: false
         <li>Scoring a minimum average grade of 90% in CIMP</li>
       </ul>
     </td>
-    <td></td>
+    <td>2019 - 2021</td>
   </tr>
   <tr>
     <td><img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/></td>
