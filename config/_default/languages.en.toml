@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = ""
+title = "Michael Lu"
 
 [params]
 displayName = "EN"
@@ -10,14 +10,14 @@ rtl = false
 dateFormat = "2 January 2006"
 # logo = "img/logo.png"
 # secondaryLogo = "img/secondary-logo.png"
-# description = "Michael's personal website"
+description = "Michael's personal website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
 name = "Michael Lu Han Xien"
 image = "img/AvatarLogo.png"
 headline = "Full Stack Developer"
-bio = "13 mei rizz for them amoi gyatts"
+bio = "Full Stack Developer"
 links = [
   { envelope = "mailto:michaellu5565@gmail.com" },
   # { link = "https://link-to-some-website.com/" },
