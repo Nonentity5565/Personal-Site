@@ -1,0 +1,5 @@
+# Vscode extension files
+.vscode/*
+
+# Hugo Build folder
+public
