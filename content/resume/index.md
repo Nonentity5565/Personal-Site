@@ -7,6 +7,7 @@ draft: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+showPagination: false
 ---
 
 ## Experience
