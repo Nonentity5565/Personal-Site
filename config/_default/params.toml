@@ -17,8 +17,8 @@ mainSections = ["blog"] # What sections to show under Recent in homepage
 
 disableImageOptimization = true
 
-defaultBackgroundImage = "img/ocean.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "img/ocean.jpg"         # used as default for background images 
+defaultFeaturedImage = "img/defaultFeatured.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 smartTOC = true
