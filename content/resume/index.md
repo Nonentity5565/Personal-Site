@@ -16,18 +16,16 @@ showPagination: false
     <thead>
         <tr>
             <th>Company</th>
-            <th>Link</th>
             <th>Role</th>
             <th>Dates</th>
             <th>Description</th>
+            <th>Tools & Languages</th>
         </tr>
     </thead>
     <tbody>
         <tr>
           <td>
             <img src="Xspec.png" class="customEntityLogo nozoom" alt="Xspec company logo"/>
-          </td>
-          <td>
             <a href="https://xspectechnology.com/" target="_blank">
               Xspec Technology Sdn Bhd
             </a>
@@ -47,12 +45,20 @@ showPagination: false
               </li>
             </ul>
           </td>
+          <td>
+            <ul>
+              <li>JavaScript</li>
+              <li>ReactJs</li>
+              <li>Material Ui</li>
+              <li>EmailJs</li>
+              <li>Google ReCaptcha</li>
+              <li>Google Analytic</li>
+            </ul>
+          </td>
         </tr>
         <tr>
           <td>
             <img src="Mulah.png" class="customEntityLogo nozoom" alt="Mulah company logo"/>
-          </td>
-          <td>
             <a href="https://www.mulahrewards.com/" target="_blank">
               Mulah Rewards Sdn Bhd
             </a>
@@ -62,7 +68,8 @@ showPagination: false
           <td>
             <ul>
               <li>
-                Worked as a software engineer for a <a href="https://mulahpoints.com/" target="_blank">web-based application</a>
+                Worked as a software engineer for a 
+                <a href="https://mulahpoints.com/" target="_blank">web-based application</a>
               </li>
               <li>
                 Implement features on both the internal application and customer application
@@ -73,6 +80,18 @@ showPagination: false
               <li>
                 Revamped customer application's website in alignment with provided UI design
               </li>
+            </ul>
+          </td>
+          <td>
+            <ul>
+              <li>JavaScript</li>
+              <li>Vue2 & 3</li>
+              <li>Naive Ui</li>
+              <li>Bootstrap</li>
+              <li>Ruby</li>
+              <li>Ruby on rails</li>
+              <li>Graphql</li>
+              <li>PostgreSQL</li>
             </ul>
           </td>
         </tr>
@@ -99,14 +118,14 @@ showPagination: false
             <td><a href="https://sunwayuniversity.edu.my/" target="_blank">Sunway University</a></td>
             <td>BSc (Hons) in Computer Science</td>
             <td>2023</td>
-            <td>CGPA: 3.52</td>
+            <td>CGPA:<br/>3.52</td>
         </tr>
         <tr>
             <td><img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/></td>
             <td><a href="https://sunwaycollege.edu.my/" target="_blank">Sunway College</a></td>
             <td>Canadian International Matriculation Program (CIMP)</td>
             <td>2019</td>
-            <td>Average: 90%</td>
+            <td>Average:<br/>90%</td>
         </tr>
     </tbody>
 </table>
