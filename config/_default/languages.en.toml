@@ -14,7 +14,7 @@ description = "Michael's personal website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-name = "Michael Lu Han Xien"
+name = "Michael Lu"
 image = "img/AvatarLogo.png"
 headline = "Full Stack Developer"
 bio = "Full Stack Developer"
