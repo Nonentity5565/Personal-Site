@@ -20,13 +20,9 @@ headline = "Full Stack Developer"
 bio = "Full Stack Developer"
 links = [
   { envelope = "mailto:michaellu5565@gmail.com" },
-  # { link = "https://link-to-some-website.com/" },
-  # { discord = "https://discord.gg/invitecode" },
-  { whatsapp = "https://wa.me/60122647068" },
   { linkedin = "https://www.linkedin.com/in/michael-lu-han-xien/" },
   { github = "https://github.com/Nonentity5565" },
   { instagram = "https://instagram.com/michael.lhx/" },
   { music = "https://open.spotify.com/user/y5ogffy2r6qxffp90r33wun3b?si=a00dae8311b845f8" },
-  { facebook = "https://facebook.com/michael.lu.39545/" },
   { steam = "https://steamcommunity.com/id/Nonentity5565/" },
 ]
