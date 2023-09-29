@@ -4,6 +4,7 @@ date: 2023-09-25
 draft: false
 
 showAuthor: false
+showDate: false
 showReadingTime: false
 showWordCount: false
 showPagination: false
@@ -40,10 +41,8 @@ showPagination: false
 
 ## Interesting School Assignments
 
-### AI related projects
-
 {{< github repo="Nonentity5565/Neural-Network-Diabetes-Prediction" >}}
 &nbsp;
-{{< github repo="Nonentity5565/Artificial_Intelligent_Snake_Game" >}}
+{{< github repo="Nonentity5565/Artificial-Intelligent-Snake-Game" >}}
 &nbsp;
-{{< github repo="Nonentity5565/Computational-Intelligence-Assignment1" >}}
+{{< github repo="Nonentity5565/Solving-Optimization-Problems-using-Evolutionary-Algorithms" >}}
