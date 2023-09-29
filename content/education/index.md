@@ -24,21 +24,26 @@ showPagination: false
     </thead>
     <tbody>
         <tr>
-            <td><img alt="Lancaster University Logo" class="customEntityLogo nozoom" src="LancasterUniversity.png"/></td>
-            <td><a href="https://www.lancaster.ac.uk" target="_blank">Lancaster University</a></td>
-            <td>First Class Graduate<br/>BSc (Hons) in Computer Science</td>
+            <td>
+              <img alt="Lancaster University & Sunway University Logo" class="customEntityLogo nozoom" src="Merged.png"/>
+            </td>
+            <td>
+              <a href="https://www.lancaster.ac.uk" target="_blank">Lancaster University</a> &
+              <a href="https://sunwayuniversity.edu.my/" target="_blank">Sunway University</a></td>
+            </td>
+            <td>
+              First Class Graduate
+              <br/>
+              BSc (Hons) in Computer Science
+              <br/>
+              <a href="https://www.lancaster.ac.uk/partners/sunway/" target="_blank">Lancaster - Sunway Partnership</a></td>
             <td>2023</td>
             <td>CGPA:<br/>3.52</td>
         </tr>
         <tr>
-            <td><img alt="Sunway University Logo" class="customEntityLogo nozoom" src="SunwayUniversity.png"/></td>
-            <td><a href="https://sunwayuniversity.edu.my/" target="_blank">Sunway University</a></td>
-            <td>First Class Graduate<br/>BSc (Hons) in Computer Science</td>
-            <td>2023</td>
-            <td>CGPA:<br/>3.52</td>
-        </tr>
-        <tr>
-            <td><img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/></td>
+            <td>
+              <img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/>
+            </td>
             <td><a href="https://sunwaycollege.edu.my/" target="_blank">Sunway College</a></td>
             <td>Canadian International Matriculation Program (CIMP)</td>
             <td>2019</td>
