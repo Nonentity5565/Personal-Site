@@ -67,13 +67,12 @@ showPagination: false
     <td><img alt="Sunway University Logo" class="customEntityLogo nozoom" src="SunwayUniversity.png"/></td>
     <td>3x Jeffrey Cheah Ace Scholarship</td>
     <td>
-      Awarded for:
-      <ul>
-        <li>Maintaining a CGPA of 3.50 and above.</li>
-        <li>Scoring a minimum average grade of 90% in CIMP</li>
-      </ul>
+        Maintaining a CGPA of 3.50 and above.
+        <hr style="margin:5px 0;"/>
+        Scoring a minimum average grade of 90% in CIMP.
     </td>
     <td>2019 - 2021</td>
+
   </tr>
   <tr>
     <td><img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/></td>
@@ -90,7 +89,7 @@ showPagination: false
   <tr>
     <td><img alt="Sunway College Logo" class="customEntityLogo nozoom" src="SunwayCollege.png"/></td>
     <td>Jeffrey Cheah Entrance Scholarship 2018</td>
-    <td>Awarded for having 5 or more A/A+ in IGCSE</td>
+    <td>Awarded for having 5 or more A/A+ in IGCSE.</td>
     <td>2018</td>
   </tr>
 </table>
