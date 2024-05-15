@@ -10,6 +10,51 @@ showWordCount: false
 showPagination: false
 ---
 
+## Netizen eXperience
+
+<table>
+  <thead>
+    <tr>
+        <th>Company</th>
+        <th>Role</th>
+        <th>Dates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+      <!-- TODO: Update Icon -->
+        <a href="https://www.netizenexperience.com/" target="_blank">
+          <img src="NetizenExperience.jpg" class="customEntityLogo nozoom" alt="Netizen Experience company logo"/>
+        </a>
+      </td>
+      <td><b>Software Engineer</b></td>
+      <td><b>Jan 2024 - Present</b></td>
+    </tr>
+  </tbody>
+</table>
+
+**Company Background**
+
+<a href="https://www.netizenexperience.com/" target="_blank">Netizen eXperience</a> is a UX research and strategy consulting firm based in Asia, committed to improving user experience through innovative tools and human-centered approaches. Since 2011, we've worked with clients across Malaysia, Singapore, Hong Kong, China, Taiwan, Thailand, Indonesia, Vietnam, and the Philippines, as well as partners in the U.S., Europe, and Japan. Our mission is to humanize digital services, creating a better digital landscape by balancing our clients' business goals with their users' needs through thoughtful user research and collaboration.
+
+**Responsibilities**
+
+<ul>    
+    <li>Worked with Agile methodology to enhance project efficiency and flexibility.</li>
+    <li>Collaborated with internal and outsourced teams on a project for a leading financial institution.</li>
+    <li>Engaged in internal projects, collaborating with colleagues on requirement specification and decision-making processes.</li>
+</ul>
+
+**Tools & Languages**
+
+<ul>
+  <li>JavaScript</li>
+  <li>ReactJs</li>
+  <li>Angular</li>
+  <li>AWS</li>
+</ul>
+
 ## Xspec Technology Sdn Bhd
 
 <table>
@@ -28,7 +73,7 @@ showPagination: false
         </a>
       </td>
       <td><b>Web Developer</b></td>
-      <td><b>Jun 2023 - Present</b></td>
+      <td><b>Jun 2023 - Dec 2023</b></td>
     </tr>
   </tbody>
 </table>
