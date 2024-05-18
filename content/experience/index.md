@@ -25,7 +25,7 @@ showPagination: false
       <td>
       <!-- TODO: Update Icon -->
         <a href="https://www.netizenexperience.com/" target="_blank">
-          <img src="NetizenExperience.jpg" class="customEntityLogo nozoom" alt="Netizen Experience company logo"/>
+          <img src="NetizenExperience.png" class="customEntityLogo nozoom" alt="Netizen Experience company logo"/>
         </a>
       </td>
       <td><b>Software Engineer</b></td>
