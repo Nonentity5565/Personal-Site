@@ -4,11 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
-    paths: ["main/**", "themes/**"]
-
-defaults:
-  run:
-    working-directory: ./main
 
 jobs:
   build-and-deploy:
