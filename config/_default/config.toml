@@ -6,6 +6,12 @@ theme = "blowfish"
 baseURL = "https://michael-lhx.com/"
 defaultContentLanguage = "en"
 
+# S3 Deployment stuff
+[deployment]
+[[deployment.targets]]
+name = "S3 michael-lhx.com"
+URL = "s3://michael-lhx.com?region=ap-southeast-1"
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
